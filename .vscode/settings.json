@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d8011108-23b2-40d8-8bc4-1f3f77abe795/resourceGroups/identity/providers/Microsoft.Web/sites/cmapimdemo"
+}
